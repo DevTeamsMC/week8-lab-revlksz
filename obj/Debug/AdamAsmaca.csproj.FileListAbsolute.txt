@@ -1,0 +1,12 @@
+C:\Users\resul\OneDrive\Masaüstü\OOP2 Lab\Lab7\AdamAsmaca\bin\Debug\AdamAsmaca.exe.config
+C:\Users\resul\OneDrive\Masaüstü\OOP2 Lab\Lab7\AdamAsmaca\bin\Debug\AdamAsmaca.exe
+C:\Users\resul\OneDrive\Masaüstü\OOP2 Lab\Lab7\AdamAsmaca\bin\Debug\AdamAsmaca.pdb
+C:\Users\resul\OneDrive\Masaüstü\OOP2 Lab\Lab7\AdamAsmaca\obj\Debug\AdamAsmaca.csproj.AssemblyReference.cache
+C:\Users\resul\OneDrive\Masaüstü\OOP2 Lab\Lab7\AdamAsmaca\obj\Debug\AdamAsmaca.Properties.Resources.resources
+C:\Users\resul\OneDrive\Masaüstü\OOP2 Lab\Lab7\AdamAsmaca\obj\Debug\AdamAsmaca.csproj.GenerateResource.cache
+C:\Users\resul\OneDrive\Masaüstü\OOP2 Lab\Lab7\AdamAsmaca\obj\Debug\AdamAsmaca.csproj.CoreCompileInputs.cache
+C:\Users\resul\OneDrive\Masaüstü\OOP2 Lab\Lab7\AdamAsmaca\obj\Debug\AdamAsmaca.exe
+C:\Users\resul\OneDrive\Masaüstü\OOP2 Lab\Lab7\AdamAsmaca\obj\Debug\AdamAsmaca.pdb
+C:\Users\resul\OneDrive\Masaüstü\OOP2 Lab\Lab7\AdamAsmaca\obj\Debug\AdamAsmaca.Menu.resources
+C:\Users\resul\OneDrive\Masaüstü\OOP2 Lab\Lab7\AdamAsmaca\obj\Debug\AdamAsmaca.Game.resources
+C:\Users\resul\OneDrive\Masaüstü\OOP2 Lab\Lab7\AdamAsmaca\obj\Debug\AdamAsmaca.Settings.resources

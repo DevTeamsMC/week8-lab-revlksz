@@ -1,0 +1,80 @@
+ottoman,Old Turkish empire,History,Easy
+republic,Modern state system,History,Medium
+parliament,Legislative body,History,Medium
+sultan,Ottoman ruler,History,Easy
+treaty,Formal agreement,History,Medium
+revolution,Radical change,History,Hard
+monarchy,Ruled by a king or queen,History,Easy
+colony,Controlled territory,History,Medium
+crusade,Medieval military expedition,History,Hard
+dynasty,Hereditary rulers,History,Easy
+feudalism,Medieval social system,History,Hard
+constitution,Foundational legal document,History,Medium
+emancipation,Freeing from slavery,History,Hard
+imperialism,Empire building,History,Hard
+alliance,Agreement between nations,History,Medium
+armistice,Temporary truce,History,Hard
+propaganda,Biased information,History,Medium
+nationalism,Pride in one's nation,History,Medium
+genocide,Mass killing of people,History,Hard
+renaissance,Cultural rebirth,History,Medium
+algebra,Branch of math,Mathematics,Easy
+equation,Mathematical statement,Mathematics,Medium
+derivative,Calculus concept,Mathematics,Hard
+geometry,Study of shapes,Mathematics,Easy
+theorem,Mathematical proof,Mathematics,Medium
+integral,Area under a curve,Mathematics,Hard
+variable,Symbol for unknown value,Mathematics,Easy
+factorial,Product of integers,Mathematics,Medium
+logarithm,Inverse of exponentiation,Mathematics,Hard
+vector,Quantity with direction,Mathematics,Medium
+matrix,Rectangular array of numbers,Mathematics,Hard
+calculus,Advanced mathematics branch,Mathematics,Hard
+function,Input-output relation,Mathematics,Medium
+polygon,Many-sided shape,Mathematics,Easy
+radius,Distance from center,Mathematics,Easy
+probability,Chance of event,Mathematics,Medium
+derivation,Finding a derivative,Mathematics,Hard
+angle,Space between lines,Mathematics,Easy
+hypotenuse,Longest side of triangle,Mathematics,Medium
+coordinate,Point location indicator,Mathematics,Medium
+island,Land surrounded by water,Geography,Easy
+delta,River mouth,Geography,Easy
+constellation,Group of stars,Geography,Hard
+volcano,Mountain with lava,Geography,Medium
+peninsula,Land almost surrounded by water,Geography,Easy
+plateau,High flat land,Geography,Medium
+desert,Dry barren land,Geography,Easy
+archipelago,Group of islands,Geography,Hard
+glacier,Moving river of ice,Geography,Hard
+canyon,Deep valley with steep sides,Geography,Medium
+savanna,Grassland with scattered trees,Geography,Medium
+tundra,Frozen treeless region,Geography,Hard
+latitude,North-south coordinate,Geography,Medium
+longitude,East-west coordinate,Geography,Medium
+estuary,Where river meets sea,Geography,Hard
+tsunami,Seismic sea wave,Geography,Hard
+bay,Coastal water body,Geography,Easy
+climate,Weather pattern over time,Geography,Easy
+terrain,Physical land features,Geography,Medium
+basin,Low area surrounded by land,Geography,Medium
+photosynthesis,Plant food process,General,Medium
+gravity,Force between masses,General,Easy
+globalization,World interconnection,General,Hard
+cell,Smallest life unit,General,Easy
+ecosystem,Living and nonliving community,General,Medium
+inflation,Price level increase,General,Medium
+budget,Income and expense plan,General,Easy
+democracy,Government by people,General,Easy
+virus,Infectious agent,General,Easy
+bacteria,Single-celled organism,General,Easy
+atom,Smallest matter unit,General,Easy
+neuron,Nerve cell,General,Medium
+element,Chemical substance,General,Easy
+oxygen,Breathable gas,General,Easy
+carbon,Chemical in all life,General,Medium
+acid,Chemical with low pH,General,Medium
+protein,Biomolecule in cells,General,Medium
+cloning,Copying organisms,General,Hard
+radiation,Energy through space,General,Hard
+antibody,Immune defense molecule,General,Medium
